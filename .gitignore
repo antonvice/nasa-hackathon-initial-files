@@ -3,3 +3,6 @@ data_cache
 .venv
 jsons
 ua-border-cross
+*.json
+data
+.graphml
